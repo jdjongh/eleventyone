@@ -22,7 +22,7 @@ layout: layouts/base.njk
 ### IT Business Translator
 - Bridging the gap between technical jargon and business objectives.
 - Effective communication of IT solutions in business terms.
-- 
+  
 ### IT Architect/Solution Specialist
 - Designing robust IT architectures to meet organizational needs.
 - Specialized in creating innovative and scalable solutions.
@@ -49,7 +49,7 @@ layout: layouts/base.njk
 
 ### Microsoft 365 Suite
 - Comprehensive proficiency in utilizing Microsoft 365 tools and services.
-- - Leveraging productivity solutions for organizational efficiency.
+- Leveraging productivity solutions for organizational efficiency.
 
 ### Microsoft Azure
 - Extensive experience in deploying and managing cloud solutions on Microsoft Azure.
