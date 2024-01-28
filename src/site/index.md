@@ -20,7 +20,7 @@ From this point we should already have:
 
 
 
-## Technological & Strategic Leadership
+### Technological & Strategic Leadership
 - Proven ability to lead teams in implementing cutting-edge technologies.
 - Strategic vision for aligning technology with overall business goals.
 
