@@ -5,7 +5,7 @@ layout: layouts/base.njk
 ---
 
 
-## This site is a starting point
+## OctaOne Expertise
 
 From this point we should already have:
 
@@ -19,31 +19,60 @@ From this point we should already have:
 
 
 
-## Post pages
 
-The pages found in in the posts
+## Technological & Strategic Leadership
+- Proven ability to lead teams in implementing cutting-edge technologies.
+- Strategic vision for aligning technology with overall business goals.
 
-<ul class="listing">
-{%- for page in collections.post -%}
-  <li>
-    <a href="{{ page.url }}">{{ page.data.title }}</a> -
-    <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
-  </li>
-{%- endfor -%}
-</ul>
+## Independent Executive
+  - Demonstrated capability to make decisive and effective decisions independently.
+  - Executing projects with autonomy and accountability.
 
-## Links from an external data source
+- **IT Strategist (Roadmapping):**
+  - Expertise in developing and executing IT roadmaps for organizational growth.
+  - Crafting strategic plans that align with business objectives.
 
-These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.json) at build time.
+- **IT Business Translator:**
+  - Bridging the gap between technical jargon and business objectives.
+  - Effective communication of IT solutions in business terms.
 
-<ul class="listing">
-{%- for item in hawksworx.entries.slice(0,5) -%}
-  <li>
-    <a href="{{ item.link }}">{{ item.title }}</a>
-  </li>
-{%- endfor -%}
-</ul>
+- **IT Architect/Solution Specialist:**
+  - Designing robust IT architectures to meet organizational needs.
+  - Specialized in creating innovative and scalable solutions.
 
+- **Infrastructure Systems & Networking:**
+  - In-depth knowledge of designing and maintaining IT infrastructure.
+  - Proficient in networking technologies and optimizations.
+
+- **Data Security & Privacy (Cybersecurity):**
+  - Expertise in implementing and managing cybersecurity measures.
+  - Ensuring data security and privacy compliance.
+
+- **Virtualization:**
+  - Proficient in virtualization technologies for efficient resource utilization.
+  - Implementing virtualized environments for enhanced performance.
+
+- **Connectivity / SD-WAN:**
+  - Designing and optimizing wide-area networks for seamless connectivity.
+  - Specialized in Software-Defined Wide Area Networking (SD-WAN) solutions.
+
+- **System Integration:**
+  - Seamless integration of diverse systems for streamlined operations.
+  - Ensuring interoperability among different IT components.
+
+- **Microsoft 365 Suite:**
+  - Comprehensive proficiency in utilizing Microsoft 365 tools and services.
+  - Leveraging productivity solutions for organizational efficiency.
+
+- **Microsoft Azure:**
+  - Extensive experience in deploying and managing cloud solutions on Microsoft Azure.
+  - Harnessing the power of Azure for scalable and flexible infrastructure.
+
+- **Microsoft Modern Workplace:**
+  - Implementing modern workplace solutions for enhanced collaboration.
+  - Utilizing Microsoft technologies to create a productive digital workplace.
+
+This comprehensive skill set reflects a versatile IT professional with a blend of leadership, strategic planning, and hands-on technical expertise.
 
 
 
