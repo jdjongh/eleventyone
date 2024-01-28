@@ -4,7 +4,6 @@ subtitle: Exclusive IT Services<br /> 24/7 Members Only.
 layout: layouts/base.njk
 ---
 
-
 ## OctaOne Expertise
 
 ### Technological & Strategic Leadership
@@ -58,8 +57,6 @@ layout: layouts/base.njk
 ### Microsoft Modern Workplace
 - Implementing modern workplace solutions for enhanced collaboration.
 - Utilizing Microsoft technologies to create a productive digital workplace.
-
-This comprehensive skill set reflects a versatile IT professional with a blend of leadership, strategic planning, and hands-on technical expertise.
 
 
 
